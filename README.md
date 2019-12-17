@@ -7,9 +7,9 @@ O projeto tem como objetivo testar algumas formas de execução paralela em pyth
   
 
 ### Configurações da Máquina
-  * Processador: Intel(r) Core(TM) i5-5200U |
-  * Memoria (RAM): 8,00GB |
-  * SO: Windows 10 |
+  * Processador: Intel(r) Core(TM) i5-5200U
+  * Memoria (RAM): 8,00GB
+  * SO: Windows 10
   
   
 | Número de processos | Tempo de execução  | Speedup            |
